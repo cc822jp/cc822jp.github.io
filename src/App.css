@@ -1,0 +1,48 @@
+h1 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 1.4rem;
+}
+
+body {
+    font-size: 0.7rem;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+.App {
+    margin-bottom: 5rem;
+}
+
+.App__section {
+    max-width: 1024px;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.list {
+    padding: 0;
+}
+
+.list--sns {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    list-style: none;
+}
+
+.App__footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    font-size: 0.6rem;
+    text-align: center;
+}
